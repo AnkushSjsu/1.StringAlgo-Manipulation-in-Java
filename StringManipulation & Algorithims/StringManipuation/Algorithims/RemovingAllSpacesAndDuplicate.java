@@ -1,4 +1,4 @@
-package com.string;
+package Algorithims;
 /***
  * Removing all duplicate value in string and spaces:  this solution will do this is In O(N) complexity.
  * @author Ankush

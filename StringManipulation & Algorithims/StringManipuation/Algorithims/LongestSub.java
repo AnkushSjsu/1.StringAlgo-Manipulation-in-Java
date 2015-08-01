@@ -1,4 +1,4 @@
-package com.string;
+package Algorithims;
 // longest substring which is made by unique character.
 import java.util.HashMap;
 import java.util.Map;

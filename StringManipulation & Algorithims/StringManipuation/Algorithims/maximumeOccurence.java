@@ -1,4 +1,4 @@
-package com.string;
+package Algorithims;
 /***
  * This code will to find maximume number of occurrence of any charcter in any given string. 
  * with O(N) complexity.

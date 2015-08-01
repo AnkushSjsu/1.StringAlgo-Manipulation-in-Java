@@ -1,4 +1,4 @@
-package com.string;
+package Algorithims;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

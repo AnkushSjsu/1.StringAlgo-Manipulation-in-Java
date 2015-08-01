@@ -1,4 +1,4 @@
-package com.string;
+package Algorithims;
 
 /**
  * checking for string is palindrom or not.

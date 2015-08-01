@@ -1,4 +1,4 @@
-package com.string;
+package Algorithims;
 
 import java.util.HashSet;
 import java.util.LinkedHashSet;

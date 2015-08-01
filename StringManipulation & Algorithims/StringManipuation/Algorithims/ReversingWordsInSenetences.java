@@ -1,4 +1,4 @@
-package com.string;
+package Algorithims;
 
 /**
  * pritning a string in which it will reverse the words from last for example :
