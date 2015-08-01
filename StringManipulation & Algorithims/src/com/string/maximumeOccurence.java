@@ -1,5 +1,9 @@
 package com.string;
-
+/***
+ * This code will to find maximume number of occurrence of any charcter in any given string. 
+ * with O(N) complexity.
+ * @author Ankush
+ */
 import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
@@ -35,7 +39,7 @@ public class maximumeOccurence {
 			}
 
 		}
-		System.out.println("max2 " + max2 + "max1 " + max1);
+		System.out.println("first two maximume occurence is " + max1 + " and " + max2);
 	}
 
 	public static void main(String[] args) {
