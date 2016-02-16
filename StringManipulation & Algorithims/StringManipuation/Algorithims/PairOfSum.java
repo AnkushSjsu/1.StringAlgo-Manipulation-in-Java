@@ -1,6 +1,6 @@
 package Algorithims;
 
-// this question is to find out pair of such number in any set of numbers given, which is making certain sum.
+// this question is to find out number of count of each element
 // this solution finds out this in O(N) space complexity and same for time.
 import java.util.HashMap;
 import java.util.Iterator;
@@ -9,10 +9,11 @@ import java.util.Map;
 /***
  * 
  * @author Ankush
+ * finding all number of 
  * 
  */
 
-public class PairOfSum {
+public class CountofRepeatedCharacter {
 
 	public static void main(String[] args) {
 		int[] arr = { 3, 5, 6, 3, 3, 5 };
